@@ -45,13 +45,26 @@ This project showcases a 4-DOF robotic arm using the MeArm kit, programmed to pe
 - Performed trajectory planning and workspace exploration.
 - Used PD computed torque control simulation to evaluate smoothness.
 
-> MATLAB scripts are included in the `/matlab` directory.
-
 ---
 
-![MeArm Full View]( photo_2025-05-16_15-19-22.jpg )
+## **MeArm Full View**
 
-![Circuit Connections](photo_2025-05-16_15-31-35.jpg)
+
+
+
+
+
+![photo_2025-05-16_15-19-22](https://github.com/user-attachments/assets/c77c2258-b8aa-489f-a187-17e974438c75)
+
+
+## **Circuit Connections**
+
+
+
+
+
+
+![photo_2025-05-16_15-31-35](https://github.com/user-attachments/assets/ff855582-8926-4500-85d6-d22522c46674)
 
 ---
 
